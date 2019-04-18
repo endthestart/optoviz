@@ -10,9 +10,13 @@ Currently in development - I will be adding more functionality, documentation, a
 # Current Dependencies
 fast_arrow (and an associated robinhood account)
 https://github.com/westonplatter/fast_arrow
+
 pandas
+
 numpy
+
 seaborn
+
 matplotlib
 
 # Installation
